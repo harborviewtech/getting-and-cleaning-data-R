@@ -19,6 +19,6 @@ y_test.txt
 Once those steps are complete, you can run the R script (run_analysis.R). 
 The R script requires the reshape2 package.
 
-The output of the R script is a tidy data set, named tidy.csv.
+The output of the R script is a tidy data set, named tidy.txt.
 
 More information about the description of each data files and the steps taked can be found in the code book.
